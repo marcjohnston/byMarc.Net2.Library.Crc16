@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="byMarc.Net2.Library.Crc" Title="byMarc.Net2.Library.Crc Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.Crc.Crc16.Compute" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.Crc.chm::/topic_0000000000000002_overloads--.html" LinkGroup="byMarc.Net2.Library.Crc">Compute Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.Crc.Crc16.Compute" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.Crc.chm::/topic_0000000000000003_overloads--.html" LinkGroup="byMarc.Net2.Library.Crc">Compute Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.Crc.Crc16.Compute" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.Crc.chm::/topic_0000000000000001_overloads--.html" LinkGroup="byMarc.Net2.Library.Crc">Compute Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.Crc.Crc16" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.Crc.chm::/topic_0000000000000000.html" LinkGroup="byMarc.Net2.Library.Crc">Crc16 Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.Crc" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.Crc.chm::/topic_0000000000000007.html" LinkGroup="byMarc.Net2.Library.Crc">byMarc.Net2.Library.Crc Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.Crc Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.Crc.chm::/topic_0000000000000006.html" LinkGroup="byMarc.Net2.Library.Crc">byMarc.Net2.Library.Crc Reference</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+
